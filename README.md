@@ -4,8 +4,53 @@
 💻 I love building responsive websites  
 📫 How to reach me: ridu116540@gmail.com  
 
-![Ridwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ridu101&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ridu101&layout=compact&theme=tokyonight)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-link)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/your-link)
+<h1 align="center">Hi 👋, I'm Ridwan Ahmed</h1>
+<h3 align="center">A passionate Web Developer from Bangladesh</h3>
 
+---
+
+### 🧠 Skills & Technologies
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,java,c,cpp,flutter,figma" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/ridu101/ridu101/assets/your_image_id_here" alt="Full Stack Developer" width="400"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+<div align="center">
+  
+  ![Ridwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ridu101&show_icons=true&theme=radical)
+
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ridu101&theme=radical)
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ridu101&layout=compact&theme=tokyonight)
+
+</div>
+
+---
+
+### 🏆 GitHub Achievements
+<div align="center">
+  
+  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ridu101&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+</div>
+
+---
+
+### 🌍 Connect with me
+<p align="center">
+  <a href="https://www.linkedin.com/in/ridwan-ridu-696a53289/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
+  </a>
+  <a href="https://www.facebook.com/ridwan.ahmed.116540" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" />
+  </a>
+  <a href="ridu116540@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+</p>
