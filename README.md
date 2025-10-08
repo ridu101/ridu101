@@ -15,12 +15,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,java,c,cpp,flutter,figma" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/ridu101/ridu101/blob/main/IMG_20250920_164904.jpg" 
-       alt="Full Stack Developer" 
-       width="400"/>
-</p>
-
 
 
 
