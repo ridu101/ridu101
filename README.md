@@ -5,8 +5,6 @@
 💻 I love building responsive websites  
 📫 How to reach me: ridu116540@gmail.com  
 
-<h1 align="center">Hi 👋, I'm Ridwan Ahmed</h1>
-<h3 align="center">A passionate Web Developer from Bangladesh</h3>
 
 ---
 
@@ -33,14 +31,7 @@
 
 ---
 
-### 🏆 GitHub Achievements
-<div align="center">
-  
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ridu101&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-</div>
-
----
 
 ### 📞 Connect with me
 <p align="center">
