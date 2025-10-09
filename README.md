@@ -77,5 +77,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,100:3333ff&height=140&section=footer&text=🌈%20Dream.%20Design.%20Develop.%20🚀&fontSize=32&fontAlignY=40&fontColor=ffffff&animation=twinkling" alt="Stylish Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7eb3,100:6a82fb&height=160&section=footer&text=🌟%20Dream.%20Design.%20Develop.%20🚀&fontSize=36&fontAlignY=45&fontColor=ffffff&animation=fadeIn" alt="Stylish Footer"/>
 </p>
