@@ -9,10 +9,10 @@
 
 ### 🧍‍♂️ About Me  
 <p align="center">
-  🔭 Currently working on **Full Stack Web Projects** <br/>
-  🌱 Learning **Next.js**, **React**, and **MongoDB** <br/>
-  💬 Ask me about **JavaScript,Tailwind CSS, and APIs** <br/>
-  📫 Reach me at: ridu116540@gmail.com
+  🔭 Currently working on **Full Stack Web Projects <br/>
+  🌱 Learning **Next.js**, **React**, and **MongoDB <br/>
+  💬 Ask me about **JavaScript,Tailwind CSS, and APIs <br/>
+  📫 Reach me at: ridu116540@gmail.com <br/>
   📱Mobile No: 01308379952
 </p>
 
