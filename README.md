@@ -72,9 +72,6 @@
   <!-- Animated Profile Views -->
   <img src="https://komarev.com/ghpvc/?username=ridu101&label=👀%20Profile%20Views&color=ff00ff&style=for-the-badge&logo=github&logoColor=white&animation=spin" alt="Profile Views Badge" />
 
-  <!-- Gradient "Made with Love" Badge -->
-  <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4-ff69b4?style=for-the-badge&logo=heart&logoColor=white&labelColor=ff6ec7&color=ff00ff&animation=fade" alt="Love Badge"/>
-</p>
 
 ---
 
