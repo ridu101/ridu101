@@ -13,7 +13,6 @@
   🌱 Learning **Next.js**, **React**, and **MongoDB <br/>
   💬 Ask me about **JavaScript,Tailwind CSS, and APIs <br/>
   📫 Reach me at: ridu116540@gmail.com <br/>
-  🌠 Gmail: ahmedsadia116540@gmail.com <br/>
   📱Mobile No: +8801308379952, 01540390741 
   
 </p>
