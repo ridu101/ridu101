@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Ridwan </h1>
+<h1 align="center">👋 Hi, I'm Ridwan Ahmed </h1>
 <h3 align="center">💻 MERN Stack Developer | 🌱 Lifelong Learner | 🚀 Passionate about Web Technologies</h3>
 
 <p align="center">
