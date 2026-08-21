@@ -1,19 +1,19 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:7F00FF,100:FF00CC&height=220&section=header&text=Ridwan%20Ahmed&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20CSE%20Graduate&descSize=20&descAlignY=60&animation=fadeIn" alt="Ridwan Ahmed header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:061826,50:0B2545,100:10B981&height=220&section=header&text=Ridwan%20Ahmed&fontSize=55&fontColor=ECFEFF&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20CSE%20Graduate&descSize=20&descAlignY=60&descColor=5EEAD4&animation=fadeIn" alt="Ridwan Ahmed header" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=720&lines=Building+Modern+Full-Stack+Web+Applications;React+%7C+Node.js+%7C+Express.js+%7C+MongoDB;Turning+Ideas+Into+Useful+Digital+Products;Keep+Learning+%E2%80%A2+Keep+Building+%E2%80%A2+Keep+Growing" alt="Typing animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=600&size=23&pause=1100&color=10B981&center=true&vCenter=true&width=760&lines=Crafting+Elegant+Digital+Experiences;MERN+Stack+%7C+Modern+Web+Development;Turning+Ideas+Into+Refined+Products;Learn+%E2%80%A2+Build+%E2%80%A2+Evolve" alt="Typing animation" />
 
 <br/>
 
 <a href="https://ridwan-ahmed-portfolio-mine.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-7F00FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/Portfolio-Visit_Now-10B981?style=for-the-badge&logo=vercel&logoColor=white&labelColor=071A2B" alt="Portfolio" />
 </a>
 <a href="mailto:ridu116540@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-Contact_Me-10B981?style=for-the-badge&logo=gmail&logoColor=white&labelColor=071A2B" alt="Email" />
 </a>
 <a href="https://www.linkedin.com/in/ridwan-ridu-696a53289/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-10B981?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=071A2B" alt="LinkedIn" />
 </a>
 
 </div>
@@ -42,23 +42,55 @@ const ridwan = {
 
 ⚡ I enjoy transforming ideas into responsive and user-friendly applications
 
-🛠️ Tech Stack
+<h2 align="center">🧰 Developer Toolkit</h2>
 
 <div align="center">
-
-Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux" alt="Frontend technologies" />
-
-Backend & Database
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" alt="Backend technologies" />
-
-Tools & Other Languages
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel,c,cpp,java" alt="Tools and languages" />
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&pause=1400&color=10B981&center=true&vCenter=true&width=650&lines=Technologies+I+use+to+bring+ideas+to+life+%E2%9C%A6;Clean+interfaces+%E2%80%A2+Reliable+APIs+%E2%80%A2+Modern+workflows" alt="Developer toolkit animation" />
 </div>
+
+<table align="center">
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <br/>
+      <img height="38" src="https://img.shields.io/badge/FRONTEND-0B2545?style=for-the-badge&logo=react&logoColor=5EEAD4" alt="Frontend" />
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts&theme=dark" alt="HTML CSS JavaScript TypeScript" />
+      <br/>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux&theme=dark" alt="React Next.js Tailwind Redux" />
+      <br/><br/>
+      <sub><b>Responsive interfaces</b></sub><br/>
+      <sub>HTML · CSS · JavaScript · TypeScript</sub><br/>
+      <sub>React · Next.js · Tailwind · Redux</sub>
+      <br/><br/>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <br/>
+      <img height="38" src="https://img.shields.io/badge/BACKEND-0B2545?style=for-the-badge&logo=nodedotjs&logoColor=5EEAD4" alt="Backend" />
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" alt="Node.js Express MongoDB" />
+      <br/>
+      <img src="https://skillicons.dev/icons?i=firebase,postman,vercel&theme=dark" alt="Firebase Postman Vercel" />
+      <br/><br/>
+      <sub><b>Scalable application logic</b></sub><br/>
+      <sub>Node.js · Express.js · REST APIs</sub><br/>
+      <sub>MongoDB · Firebase · Authentication</sub>
+      <br/><br/>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <br/>
+      <img height="38" src="https://img.shields.io/badge/TOOLS-0B2545?style=for-the-badge&logo=github&logoColor=5EEAD4" alt="Tools" />
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" alt="Git GitHub VS Code Figma" />
+      <br/>
+      <img src="https://skillicons.dev/icons?i=c,cpp,java&theme=dark" alt="C C++ Java" />
+      <br/><br/>
+      <sub><b>Design and development workflow</b></sub><br/>
+      <sub>Git · GitHub · VS Code · Figma</sub><br/>
+      <sub>C · C++ · Java</sub>
+      <br/><br/>
+    </td>
+  </tr>
+</table>
 
 🚀 Featured Projects
 
@@ -68,7 +100,7 @@ Tools & Other Languages
       <h3 align="center">🩸 LifeLink Connect</h3>
       <p align="center">
         <a href="https://lifelink-connect-omega.vercel.app/">
-          <img src="https://img.shields.io/badge/Healthcare-Community_Platform-FF4B5C?style=for-the-badge" alt="LifeLink Connect" />
+          <img src="https://img.shields.io/badge/LIFELINK-CONNECT-10B981?style=for-the-badge&labelColor=071A2B" alt="LifeLink Connect" />
         </a>
       </p>
       <p>A modern full-stack platform that connects people with essential services through a smooth, responsive and user-friendly digital experience.</p>
@@ -78,7 +110,7 @@ Tools & Other Languages
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
       </p>
       <p align="center">
-        <a href="https://lifelink-connect-omega.vercel.app/"><img src="https://img.shields.io/badge/🌐_Live_Demo-7F00FF?style=for-the-badge" alt="Live Demo" /></a>
+        <a href="https://lifelink-connect-omega.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-10B981?style=for-the-badge&logo=vercel&logoColor=white&labelColor=071A2B" alt="Live Demo" /></a>
         <a href="https://github.com/ridu101?tab=repositories"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github" alt="Source Code" /></a>
       </p>
     </td>
@@ -86,7 +118,7 @@ Tools & Other Languages
       <h3 align="center">🛍️ Clothify Shopping</h3>
       <p align="center">
         <a href="https://clothifyshopping.vercel.app/">
-          <img src="https://img.shields.io/badge/E--commerce-Fashion_Store-EC4899?style=for-the-badge" alt="Clothify Shopping" />
+          <img src="https://img.shields.io/badge/CLOTHIFY-SHOPPING-10B981?style=for-the-badge&labelColor=071A2B" alt="Clothify Shopping" />
         </a>
       </p>
       <p>A responsive fashion e-commerce application featuring a polished interface and a modern, intuitive shopping workflow.</p>
@@ -96,7 +128,7 @@ Tools & Other Languages
         <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
       </p>
       <p align="center">
-        <a href="https://clothifyshopping.vercel.app/"><img src="https://img.shields.io/badge/🌐_Live_Demo-7F00FF?style=for-the-badge" alt="Live Demo" /></a>
+        <a href="https://clothifyshopping.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-10B981?style=for-the-badge&logo=vercel&logoColor=white&labelColor=071A2B" alt="Live Demo" /></a>
         <a href="https://github.com/ridu101?tab=repositories"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github" alt="Source Code" /></a>
       </p>
     </td>
@@ -106,7 +138,7 @@ Tools & Other Languages
       <h3 align="center">🍽️ Foddieo</h3>
       <p align="center">
         <a href="https://foddieo-your-managment-partner.vercel.app/">
-          <img src="https://img.shields.io/badge/Food-Management_Partner-F97316?style=for-the-badge" alt="Foddieo" />
+          <img src="https://img.shields.io/badge/FODDIEO-MANAGEMENT-10B981?style=for-the-badge&labelColor=071A2B" alt="Foddieo" />
         </a>
       </p>
       <p>A food-management platform focused on easy organization, practical usability and a seamless responsive experience across devices.</p>
@@ -116,7 +148,7 @@ Tools & Other Languages
         <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
       </p>
       <p align="center">
-        <a href="https://foddieo-your-managment-partner.vercel.app/"><img src="https://img.shields.io/badge/🌐_Live_Demo-7F00FF?style=for-the-badge" alt="Live Demo" /></a>
+        <a href="https://foddieo-your-managment-partner.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-10B981?style=for-the-badge&logo=vercel&logoColor=white&labelColor=071A2B" alt="Live Demo" /></a>
         <a href="https://github.com/ridu101?tab=repositories"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github" alt="Source Code" /></a>
       </p>
     </td>
@@ -124,7 +156,7 @@ Tools & Other Languages
       <h3 align="center">🌱 Green Earth</h3>
       <p align="center">
         <a href="https://ridu101.github.io/Green-Earth-Full-Project/">
-          <img src="https://img.shields.io/badge/Environment-Green_Earth-16A34A?style=for-the-badge" alt="Green Earth" />
+          <img src="https://img.shields.io/badge/GREEN-EARTH-10B981?style=for-the-badge&labelColor=071A2B" alt="Green Earth" />
         </a>
       </p>
       <p>An environmental awareness website that encourages greener choices through an accessible, informative and engaging interface.</p>
@@ -134,7 +166,7 @@ Tools & Other Languages
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000" alt="JavaScript" />
       </p>
       <p align="center">
-        <a href="https://ridu101.github.io/Green-Earth-Full-Project/"><img src="https://img.shields.io/badge/🌐_Live_Demo-7F00FF?style=for-the-badge" alt="Live Demo" /></a>
+        <a href="https://ridu101.github.io/Green-Earth-Full-Project/"><img src="https://img.shields.io/badge/Live_Demo-10B981?style=for-the-badge&logo=vercel&logoColor=white&labelColor=071A2B" alt="Live Demo" /></a>
         <a href="https://github.com/ridu101/Green-Earth-Full-Project"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github" alt="Source Code" /></a>
       </p>
     </td>
@@ -147,57 +179,61 @@ Tools & Other Languages
   <p>
     <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
     <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-    <img src="https://img.shields.io/badge/Responsive-Design-00C6FF?style=flat-square" alt="Responsive Design" />
+    <img src="https://img.shields.io/badge/Responsive-Design-10B981?style=flat-square&labelColor=071A2B" alt="Responsive Design" />
   </p>
-  <a href="https://ridu101.github.io/MoneyPayApp/"><img src="https://img.shields.io/badge/🌐_Live_Demo-7F00FF?style=for-the-badge" alt="Live Demo" /></a>
+  <a href="https://ridu101.github.io/MoneyPayApp/"><img src="https://img.shields.io/badge/Live_Demo-10B981?style=for-the-badge&logo=vercel&logoColor=white&labelColor=071A2B" alt="Live Demo" /></a>
   <a href="https://github.com/ridu101/MoneyPayApp"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github" alt="Source Code" /></a>
   <br/><br/>
-  <a href="https://ridwan-ahmed-portfolio-mine.vercel.app/"><img src="https://img.shields.io/badge/✨_Explore_All_Projects-00C6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore all projects" /></a>
+  <a href="https://ridwan-ahmed-portfolio-mine.vercel.app/"><img src="https://img.shields.io/badge/Explore_All_Projects-10B981?style=for-the-badge&logo=vercel&logoColor=white&labelColor=071A2B" alt="Explore all projects" /></a>
 </div>
 
 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ridu101&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&rank_icon=github" alt="Ridwan's GitHub stats" />
-<img width="49%" src="https://streak-stats.demolab.com?user=ridu101&theme=tokyonight&hide_border=true&border_radius=12" alt="Ridwan's GitHub streak" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ridu101&show_icons=true&hide_border=true&border_radius=12&rank_icon=github&bg_color=071A2B&title_color=10B981&icon_color=5EEAD4&text_color=D6FFF6" alt="Ridwan's GitHub stats" />
+<img width="49%" src="https://streak-stats.demolab.com?user=ridu101&hide_border=true&border_radius=12&background=071A2B&ring=10B981&fire=5EEAD4&currStreakLabel=10B981&sideLabels=D6FFF6&dates=A8A29E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Ridwan's GitHub streak" />
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridu101&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" alt="Most used languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridu101&layout=compact&hide_border=true&border_radius=12&langs_count=8&bg_color=071A2B&title_color=10B981&text_color=D6FFF6" alt="Most used languages" />
 
 </div>
 
 🏆 GitHub Trophies
 
 <div align="center">
-  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=ridu101&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=6" alt="GitHub trophies" />
+  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=ridu101&theme=onedark&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=6" alt="GitHub trophies" />
 </div>
 
 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ridu101&bg_color=0d1117&color=00d9ff&line=7f00ff&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ridu101&bg_color=071A2B&color=D6FFF6&line=10B981&point=5EEAD4&area=true&area_color=064E3B&hide_border=true" width="100%" alt="Contribution graph" />
 </div>
 
 🌐 Connect With Me
 
 <div align="center">
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=600&size=20&pause=1000&color=10B981&center=true&vCenter=true&width=650&lines=Let's+Build+Something+Exceptional;Open+to+Opportunities+%26+Collaboration;Connect+%E2%80%A2+Create+%E2%80%A2+Grow" alt="Animated contact message" />
+
+<br/>
+
 <a href="https://www.linkedin.com/in/ridwan-ridu-696a53289/">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="48" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-10B981?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=071A2B" alt="LinkedIn" />
 </a>&nbsp;&nbsp;
 <a href="https://github.com/ridu101">
-  <img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-10B981?style=for-the-badge&logo=github&logoColor=white&labelColor=071A2B" alt="GitHub" />
 </a>&nbsp;&nbsp;
 <a href="mailto:ridu116540@gmail.com">
-  <img src="https://img.icons8.com/color/48/gmail-new.png" width="48" alt="Email" />
+  <img src="https://img.shields.io/badge/Gmail-10B981?style=for-the-badge&logo=gmail&logoColor=white&labelColor=071A2B" alt="Email" />
 </a>&nbsp;&nbsp;
 <a href="https://facebook.com/ridwan.ahmed.116540">
-  <img src="https://img.icons8.com/color/48/facebook-new.png" width="48" alt="Facebook" />
+  <img src="https://img.shields.io/badge/Facebook-10B981?style=for-the-badge&logo=facebook&logoColor=white&labelColor=071A2B" alt="Facebook" />
 </a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/ridu.ridwan1100/">
-  <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="48" alt="Instagram" />
+  <img src="https://img.shields.io/badge/Instagram-10B981?style=for-the-badge&logo=instagram&logoColor=white&labelColor=071A2B" alt="Instagram" />
 </a>
 
 <br/><br/>
@@ -208,14 +244,14 @@ Tools & Other Languages
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=ridu101&label=Profile%20Views&color=7f00ff&style=for-the-badge" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=ridu101&label=PROFILE%20VIEWS&color=10B981&style=for-the-badge" alt="Profile views" />
 
 </div>
 
 <div align="center">
 
-💡 “Code. Create. Improve. Repeat.”
+✦ “Code with purpose. Build with distinction.” ✦
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:7F00FF,100:FF00CC&height=130&section=footer" alt="Footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,50:0B2545,100:061826&height=140&section=footer" alt="Footer" />
 
 </div>
