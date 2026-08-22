@@ -25,7 +25,7 @@ const ridwan = {
   location: "Dhaka, Bangladesh",
   education: "B.Sc. in Computer Science & Engineering",
   role: "MERN Stack Developer",
-  focus: ["Full-Stack Development", "Responsive UI", "REST APIs"],
+  focus: ["MERN-Stack Development", "Responsive UI", "REST APIs"],
   currentlyLearning: ["Next.js", "TypeScript", "Advanced Backend"],
   goal: "Build reliable digital products that solve real problems",
 };
