@@ -18,29 +18,35 @@
 
 </div>
 
-👨‍💻 About Me
+<!-- ==================== ANIMATED ABOUT ME ==================== -->
 
-const ridwan = {
-  name: "Ridwan Ahmed",
-  location: "Dhaka, Bangladesh",
-  education: "B.Sc. in Computer Science & Engineering",
-  role: "MERN Stack Developer",
-  focus: ["MERN-Stack Development", "Responsive UI", "REST APIs"],
-  currentlyLearning: ["Next.js", "TypeScript", "Advanced Backend"],
-  goal: "Build reliable digital products that solve real problems",
-};
+<h2 align="center">👨‍💻 About Me</h2>
 
-🎓 CSE graduate with a strong interest in modern web technologies
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=700&color=10B981&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer+from+Bangladesh;Building+Responsive+Web+Applications;Creating+RESTful+APIs+%26+Modern+UIs;Always+Learning.+Always+Building."
+    alt="About Ridwan animation"
+  />
+</p>
 
-🔭 Building full-stack applications with the MERN stack
 
-🌱 Improving my skills in Next.js, TypeScript and scalable backend development
+🚀 Turning ideas into scalable web experiences
 
-💬 Ask me about React, JavaScript, Tailwind CSS, Node.js, MongoDB and REST APIs
+<p>
+  🎓 CSE graduate with a strong interest in modern web technologies
+  <br/><br/>
+  🔭 Building full-stack applications with the MERN stack
+  <br/><br/>
+  🌱 Improving my skills in Next.js, TypeScript and scalable backend development
+  <br/><br/>
+  💬 Ask me about React, JavaScript, Tailwind CSS and REST APIs
+  <br/><br/>
+  🤝 Open to developer opportunities, collaborations and meaningful projects
+  <br/><br/>
+  ⚡ I enjoy transforming ideas into responsive and user-friendly applications
+</p>
 
-🤝 Open to developer opportunities, collaborations and meaningful projects
-
-⚡ I enjoy transforming ideas into responsive and user-friendly applications
+<!-- ================== END ANIMATED ABOUT ME ================== -->
 
 <h2 align="center">🧰 Developer Toolkit</h2>
 
@@ -92,7 +98,7 @@ const ridwan = {
   </tr>
 </table>
 
-🚀 Featured Projects
+<h2 align="center">🚀 Featured Projects</h2>
 
 <table>
   <tr>
@@ -173,25 +179,11 @@ const ridwan = {
   </tr>
 </table>
 
-<div align="center">
-  <h3>💳 MoneyPay</h3>
-  <p>A mobile-inspired digital payment interface created with React and Tailwind CSS.</p>
-  <p>
-    <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-    <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-    <img src="https://img.shields.io/badge/Responsive-Design-10B981?style=flat-square&labelColor=071A2B" alt="Responsive Design" />
-  </p>
-  <a href="https://ridu101.github.io/MoneyPayApp/"><img src="https://img.shields.io/badge/Live_Demo-10B981?style=for-the-badge&logo=vercel&logoColor=white&labelColor=071A2B" alt="Live Demo" /></a>
-  <a href="https://github.com/ridu101/MoneyPayApp"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github" alt="Source Code" /></a>
-  <br/><br/>
-  <a href="https://ridwan-ahmed-portfolio-mine.vercel.app/"><img src="https://img.shields.io/badge/Explore_All_Projects-10B981?style=for-the-badge&logo=vercel&logoColor=white&labelColor=071A2B" alt="Explore all projects" /></a>
-</div>
 
-📊 GitHub Analytics
+
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ridu101&show_icons=true&hide_border=true&border_radius=12&rank_icon=github&bg_color=071A2B&title_color=10B981&icon_color=5EEAD4&text_color=D6FFF6" alt="Ridwan's GitHub stats" />
 <img width="49%" src="https://streak-stats.demolab.com?user=ridu101&hide_border=true&border_radius=12&background=071A2B&ring=10B981&fire=5EEAD4&currStreakLabel=10B981&sideLabels=D6FFF6&dates=A8A29E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Ridwan's GitHub streak" />
 
 <br/>
@@ -200,19 +192,13 @@ const ridwan = {
 
 </div>
 
-🏆 GitHub Trophies
-
-<div align="center">
-  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=ridu101&theme=onedark&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=6" alt="GitHub trophies" />
-</div>
-
-📈 Contribution Activity
+<h2 align="center">📈 Contribution Activity</h2>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ridu101&bg_color=071A2B&color=D6FFF6&line=10B981&point=5EEAD4&area=true&area_color=064E3B&hide_border=true" width="100%" alt="Contribution graph" />
 </div>
 
-🌐 Connect With Me
+<h2 align="center">🌐 Connect With Me</h2>
 
 <div align="center">
 
@@ -236,12 +222,7 @@ const ridwan = {
   <img src="https://img.shields.io/badge/Instagram-10B981?style=for-the-badge&logo=instagram&logoColor=white&labelColor=071A2B" alt="Instagram" />
 </a>
 
-<br/><br/>
-
-📧 Email: ridu116540@gmail.com
-📱 Phone / WhatsApp: +880 1308-379952
-🌍 Portfolio: ridwan-ahmed-portfolio-mine.vercel.app
-
+<br/>
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=ridu101&label=PROFILE%20VIEWS&color=10B981&style=for-the-badge" alt="Profile views" />
@@ -250,7 +231,7 @@ const ridwan = {
 
 <div align="center">
 
-✦ “Code with purpose. Build with distinction.” ✦
+<h3>✅ Code with purpose. Build with distinction ✅</h3>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,50:0B2545,100:061826&height=140&section=footer" alt="Footer" />
 
