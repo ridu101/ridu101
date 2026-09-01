@@ -188,15 +188,11 @@
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridu101&layout=compact&hide_border=true&border_radius=12&langs_count=8&bg_color=071A2B&title_color=10B981&text_color=D6FFF6" alt="Most used languages" />
+
 
 </div>
 
-<h2 align="center">📈 Contribution Activity</h2>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ridu101&bg_color=071A2B&color=D6FFF6&line=10B981&point=5EEAD4&area=true&area_color=064E3B&hide_border=true" width="100%" alt="Contribution graph" />
-</div>
 
 <h2 align="center">🌐 Connect With Me</h2>
 
