@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:061826,50:0B2545,100:10B981&height=220&section=header&text=Ridwan%20Ahmed&fontSize=55&fontColor=ECFEFF&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20CSE%20Graduate&descSize=20&descAlignY=60&descColor=5EEAD4&animation=fadeIn" alt="Ridwan  header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:061826,50:0B2545,100:10B981&height=220&section=header&text=Ridwan%20Ahmed&fontSize=55&fontColor=ECFEFF&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20CSE%20Graduate&descSize=20&descAlignY=60&descColor=5EEAD4&animation=fadeIn" alt="Ridwann header" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=600&size=23&pause=1100&color=10B981&center=true&vCenter=true&width=760&lines=Crafting+Elegant+Digital+Experiences;MERN+Stack+%7C+Modern+Web+Development;Turning+Ideas+Into+Refined+Products;Learn+%E2%80%A2+Build+%E2%80%A2+Evolve" alt="Typing animation" />
 
